@@ -13,9 +13,9 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-## For more info click on my 
-# <a href="http://www.enjoei.com.br"> portfolio page </a>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+For more info click on my 
+# <a href="https://kristofkruller.github.io/Portfolio/"> Portfolio </a>
 ## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/kristof-kruller/">
