@@ -1,6 +1,6 @@
-### Hi there, I am Kristof Kruller 👋
+## Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **continuously learning // my strenght** in **Front End Web Development** 💪.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **continuously learning - my strenght** is in **Front End Web Development** 💪
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />  T E C H S T A C K:
 
