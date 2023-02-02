@@ -16,5 +16,6 @@
 <!-- # For more details please click on my<a href="https://kristofkruller.github.io/Portfolio/"> Portfolio </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 Get in touch:
 <a href="https://www.linkedin.com/in/kristof-kruller/"><img align="" alt="KristofKruller | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;<a href="mailto:kristof.kruller@gmail.com"><img align="" alt="KristofKruller | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
+
 CodeWars 
-<a src="https://www.codewars.com/users/kristofkruller/badges/micro"></a>
+<img src="https://www.codewars.com/users/kristofkruller/badges/micro"></a>
