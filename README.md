@@ -6,8 +6,6 @@ NextJs, React, Typescript
 Hooks, Router, ContextAPI, Styled-Components, CSS Modules, Framer motion
 Prisma, SQLite, Firebase, STRAPI
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />  T E C H S T A C K:
-<div style="max-height: 48px; display: flex;">
-<a style="height:48px;"><img style="max-height:48px;" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
@@ -16,7 +14,6 @@ Prisma, SQLite, Firebase, STRAPI
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
-</div>
 <!-- # For more details please click on my<a href="https://kristofkruller.github.io/Portfolio/"> Portfolio </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 Get in touch:
 <a href="https://www.linkedin.com/in/kristof-kruller/"><img align="" alt="KristofKruller | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;<a href="mailto:kristof.kruller@gmail.com"><img align="" alt="KristofKruller | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
