@@ -25,3 +25,5 @@ Get in touch:
   Codewars badge:
   <img src="https://www.codewars.com/users/kristofkruller/badges/micro"></a>
 </a> 
+
+<img alt="GIF" src="https://i.chzbgr.com/full/6545843968/h1FD26DF6/have-to-get-through-the-day-somehow">
