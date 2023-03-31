@@ -25,5 +25,6 @@ Get in touch:
   Codewars badge:
   <img src="https://www.codewars.com/users/kristofkruller/badges/micro"></a>
 </a> 
-
+<br>
+<br>
 <img alt="GIF" src="https://media.tenor.com/nIPLRnaTx7gAAAAC/trex-pc.gif">
