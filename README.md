@@ -21,10 +21,10 @@ Prisma, SQLite, Firebase, STRAPI
 Get in touch:
 <a href="https://www.linkedin.com/in/kristof-kruller/"><img align="" alt="KristofKruller | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;<a href="mailto:kristof.kruller@gmail.com"><img align="" alt="KristofKruller | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
 
+Codewars badge:  
+
 <a target="_blank" href="https://www.codewars.com/users/kristofkruller">
-  Codewars badge:
   <img src="https://www.codewars.com/users/kristofkruller/badges/micro"></a>
-</a> 
-<br>
-<br>
+</a>  
+
 <img alt="GIF" src="https://media.tenor.com/nIPLRnaTx7gAAAAC/trex-pc.gif">
