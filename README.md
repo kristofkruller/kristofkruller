@@ -5,7 +5,7 @@
 NextJs, React, Typescript
 Hooks, Router, ContextAPI, Styled-Components, CSS Modules, Framer motion
 Prisma, SQLite, Firebase, STRAPI
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />  T E C H S T A C K:
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />  
 <a src="https://vercel.com/"><img src="https://img.icons8.com/color/1x/nextjs.png"></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
