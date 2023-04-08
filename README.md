@@ -1,5 +1,5 @@
 # Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
----
+
 <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *continuously learning* and **focusing on *Front End Development*** 💪
 ---
 **`NextJs, React, Typescript
