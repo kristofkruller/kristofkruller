@@ -1,11 +1,10 @@
-## Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
+# Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
+---
 <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *continuously learning* and **focusing on *Front End Development*** 💪
-
+---
 **`NextJs, React, Typescript
 Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules, Framer motion
 Prisma, SQLite, Firebase, STRAPI`**  
-<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
 <a src="https://vercel.com/"><img src="https://img.icons8.com/color/1x/nextjs.png"></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
