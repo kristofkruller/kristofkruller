@@ -2,7 +2,9 @@
 
 <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *continuously learning* and **focusing on *Front End Development*** 💪
 ---  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristofkruller&show_icons=true&locale=en&layout=compact" alt="kristofkruller" /></p>  
+
 **`NextJs, React, Typescript,
 Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules, Framer motion
 Prisma, SQLite, Firebase, STRAPI`**  
