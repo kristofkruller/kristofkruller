@@ -6,7 +6,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristofkruller&show_icons=true&locale=en&layout=compact" alt="kristofkruller" /></p>  
 
 **`NextJs, React, Typescript,
-Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules, Framer motion
+Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules, Framer motion,
 Prisma, SQLite, Firebase, STRAPI`**  
 <a src="https://vercel.com/"><img src="https://img.icons8.com/color/1x/nextjs.png"></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
