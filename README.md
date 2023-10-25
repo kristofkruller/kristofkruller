@@ -1,6 +1,8 @@
 # Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
 
 <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *continuously learning* and **focusing on *Software Development*** 💪
+<br />
+most of my work are in private repos
 ---  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristofkruller&show_icons=true&locale=en&layout=compact" alt="kristofkruller" /></p>  
@@ -22,7 +24,6 @@ Prisma, Postgres, Amplication, Firebase, STRAPI`**
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/1x/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png"></a>
 <!-- # For more details please click on my<a href="https://kristofkruller.github.io/Portfolio/"> Portfolio </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 **Get in touch:**
-most of my work are in private repos 
 <a href="https://www.linkedin.com/in/kristof-kruller/"><img align="" alt="KristofKruller | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;<a href="mailto:kristof.kruller@gmail.com"><img align="" alt="KristofKruller | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
 
 **Codewars badge:**  
