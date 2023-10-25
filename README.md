@@ -1,14 +1,14 @@
 # Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
 
-<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *continuously learning* and **focusing on *Front End Development*** 💪
+<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *continuously learning* and **focusing on *Software Development*** 💪
 ---  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristofkruller&show_icons=true&locale=en&layout=compact" alt="kristofkruller" /></p>  
 
-**`NextJs, React, Typescript,
-Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules, Framer motion,
-Prisma, SQLite, Firebase, STRAPI`**  
-<a src="https://vercel.com/"><img src="https://img.icons8.com/color/1x/nextjs.png"></a>
+**`NestJs, React, Typescript, Golang,
+Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules,
+Prisma, Postgres, Amplication, Firebase, STRAPI`**
+<a src="https://vercel.com/"><img src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png"></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
