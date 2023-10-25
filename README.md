@@ -2,7 +2,7 @@
 
 <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *continuously learning* and **focusing on *Software Development*** 💪
 <br />
-most of my work are in private repos
+(most of my work are in private repos)
 ---  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristofkruller&show_icons=true&locale=en&layout=compact" alt="kristofkruller" /></p>  
