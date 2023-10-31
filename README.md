@@ -7,11 +7,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristofkruller&show_icons=true&locale=en&layout=compact" alt="kristofkruller" /></p>  
 
-**`NestJs, React, Typescript, Golang,
+**`React, Typescript, Golang,
 Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules,
 Prisma, Postgres, Amplication, Firebase, STRAPI`**
 <br />
-<a title="NestJS, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NestJS.svg"><img width="64" alt="NestJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/64px-NestJS.svg.png"></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
