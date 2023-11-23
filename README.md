@@ -17,6 +17,9 @@ Prisma, Postgres, Amplication, Firebase, STRAPI`**
 <a src="https://www.javascript.com/"><img src="https://w7.pngwing.com/pngs/1008/389/png-transparent-logo-redhat-logos-and-brands-icon.png" height="48px"></a>
 <a src="https://www.javascript.com/"><img src="https://www.debian.org/logos/hexagonal.png" height="48px"></a>
 <a src="https://www.javascript.com/"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2018/04/docker.png?fit=269%2C201&ssl=1" height="48px"></a>
+<a src="https://remote-lab.net/public/images/podman.png" height="48px"></a>
+<a src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="48px"></a>
+<a src="https://cdn.iconscout.com/icon/free/png-256/free-bash-shell-script-7855733-6374566.png" height="48px"></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" height="48px"></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" height="48px"></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png" height="48px"></a>
