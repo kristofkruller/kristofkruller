@@ -2,10 +2,9 @@
 
 <img alt="GIF" src="https://cdn.dribbble.com/users/1792477/screenshots/6816387/ezgif.com-resize__3_.gif" width="20vw" /> 
 <br />
-I’m *continuously learning* and **focusing on *Software Development*** 💪
+*I’m continuously learning and focusing on Software Development* 💪
 <br />
 (most of my work are in private repos)
----  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristofkruller&show_icons=true&locale=en&layout=compact" alt="kristofkruller" /></p>  
 
@@ -14,6 +13,10 @@ React, Typescript, Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modu
 Prisma, Postgres, Amplication, Firebase, STRAPI`**
 <br />
 <a src="https://go.dev/blog/go-brand/Go-Logo/PNG"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="48px"></a>
+<a src="https://www.javascript.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Symbol.jpg" height="48px"></a>
+<a src="https://www.javascript.com/"><img src="https://w7.pngwing.com/pngs/1008/389/png-transparent-logo-redhat-logos-and-brands-icon.png" height="48px"></a>
+<a src="https://www.javascript.com/"><img src="https://www.debian.org/logos/hexagonal.png" height="48px"></a>
+<a src="https://www.javascript.com/"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2018/04/docker.png?fit=269%2C201&ssl=1" height="48px"></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" height="48px"></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" height="48px"></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png" height="48px"></a>
