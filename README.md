@@ -1,16 +1,17 @@
 # Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
 
-<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *continuously learning* and **focusing on *Software Development*** 💪
+<img alt="GIF" src="https://cdn.dribbble.com/users/1792477/screenshots/6816387/ezgif.com-resize__3_.gif" width="20vw" /> I’m *continuously learning* and **focusing on *Software Development*** 💪
 <br />
 (most of my work are in private repos)
 ---  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristofkruller&show_icons=true&locale=en&layout=compact" alt="kristofkruller" /></p>  
 
-**`React, Typescript, Golang,
-Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules,
+**`_Go, Redis, Shell, Podman, Docker, Redhat, Debian, Postgre, Nginx,_
+React, Typescript, Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules,
 Prisma, Postgres, Amplication, Firebase, STRAPI`**
 <br />
+<a src="https://www.javascript.com/](https://go.dev/blog/go-brand/Go-Logo/PNG)"><img src="src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png""></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
