@@ -11,7 +11,7 @@
 React, Typescript, Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules,
 Prisma, Postgres, Amplication, Firebase, STRAPI`**
 <br />
-<a src="https://www.javascript.com/](https://go.dev/blog/go-brand/Go-Logo/PNG)"><img src="src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png""></a>
+<a src="https://www.javascript.com/](https://go.dev/blog/go-brand/Go-Logo/PNG)"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png"></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
