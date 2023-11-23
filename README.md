@@ -2,9 +2,8 @@
 
 <img alt="GIF" src="https://cdn.dribbble.com/users/1792477/screenshots/6816387/ezgif.com-resize__3_.gif" width="20vw" /> 
 <br />
-*I’m continuously learning and focusing on Software Development* 💪
-<br />
-(most of my work are in private repos)
+
+***I’m continuously learning and focusing on Software Development most of my work are in private repos***
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristofkruller&show_icons=true&locale=en&layout=compact" alt="kristofkruller" /></p>  
 
