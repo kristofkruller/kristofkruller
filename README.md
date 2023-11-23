@@ -13,16 +13,16 @@ I’m *continuously learning* and **focusing on *Software Development*** 💪
 React, Typescript, Hooks, Router, Redux, ContextAPI, Styled-Components, CSS Modules,
 Prisma, Postgres, Amplication, Firebase, STRAPI`**
 <br />
-<a src="https://go.dev/blog/go-brand/Go-Logo/PNG"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="48px"></a>
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
-<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"></a>
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"></a>
-<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/ios-filled/1x/css3.png"></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/ios-filled/1x/html-5.png"></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/1x/styled-components.png"></a>
+<a src="https://go.dev/blog/go-brand/Go-Logo/PNG"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="48px"></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" height="48px"></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" height="48px"></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png" height="48px"></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png" height="48px"></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png" height="48px"></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" height="48px"></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/ios-filled/1x/css3.png" height="48px"></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/ios-filled/1x/html-5.png" height="48px"></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/1x/styled-components.png" height="48px"></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/1x/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" height="48px"></a>
 <!-- # For more details please click on my<a href="https://kristofkruller.github.io/Portfolio/"> Portfolio </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 **Get in touch:**
