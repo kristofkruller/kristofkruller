@@ -1,5 +1,3 @@
-# Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
-
 <img alt="GIF" src="https://cdn.dribbble.com/users/1792477/screenshots/6816387/ezgif.com-resize__3_.gif" width="20vw" /> 
 
 ***I’m continuously learning and focusing on Software Development most of my work are in private repos***
